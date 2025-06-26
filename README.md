@@ -33,9 +33,3 @@ ZCoder is a web-based coding platform built to help developers practice coding, 
 - Deployed on Render / Vercel
 
 ---
-
-## 🧪 Local Development Setup
-
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/aryan860/zcoder.git
