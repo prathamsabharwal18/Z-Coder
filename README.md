@@ -21,7 +21,7 @@ ZCoder is a web-based coding platform built to help developers practice coding, 
 - Monaco Editor
 
 **Backend**
-- FastAPI / Node.js
+- Node.js
 - WebSockets for real-time collaboration
 - RESTful API for user and problem management
 
@@ -29,7 +29,6 @@ ZCoder is a web-based coding platform built to help developers practice coding, 
 - MongoDB
 
 **DevOps**
-- Uvicorn + Gunicorn for serving FastAPI
 - Deployed on Render / Vercel
 
 ---
